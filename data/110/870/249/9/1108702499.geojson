@@ -1,0 +1,76 @@
+{
+  "id": 1108702499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"20.0123837,50.0697576,20.0123837,50.0697576",
+    "geom:latitude":50.069758,
+    "geom:longitude":20.012384,
+    "iso:country":"PL",
+    "mz:hierarchy_label":1,
+    "sg:address":"ul. Aleja Pokoju 78",
+    "sg:city":"Krakow",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"31-564 ",
+    "sg:tags":[
+        "hosting",
+        "it-services"
+    ],
+    "sg:website":"http://www.webinn.com.pl",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85687291,
+        102191581,
+        85633723,
+        101752117,
+        102079481,
+        85897851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73nCxm5JTIclOlzr9ESbUt_50.069758_20.012384@1308163241"
+    },
+    "wof:country":"PL",
+    "wof:created":1474570866,
+    "wof:geomhash":"9b0b01775cbc799ece34f91b60a6aff1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079481,
+            "locality_id":101752117,
+            "neighbourhood_id":85897851,
+            "region_id":85687291,
+            "venue_id":1108702499
+        }
+    ],
+    "wof:id":1108702499,
+    "wof:lastmodified":1474570866,
+    "wof:name":"Web Inn",
+    "wof:parent_id":85897851,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hosting",
+        "it-services"
+    ]
+},
+  "bbox": [
+    20.0123837,
+    50.0697576,
+    20.0123837,
+    50.0697576
+],
+  "geometry": {"coordinates":[20.0123837,50.0697576],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1108702513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"19.978542,50.089671,19.978542,50.089671",
+    "geom:latitude":50.089671,
+    "geom:longitude":19.978542,
+    "iso:country":"PL",
+    "mz:hierarchy_label":1,
+    "sg:address":"ul. Dobrego Pasterza 122A/D",
+    "sg:city":"Cracow",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"31-416",
+    "sg:tags":[
+        "poland",
+        "social-network"
+    ],
+    "sg:website":"http://www.epuls.pl",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85687291,
+        102191581,
+        85633723,
+        101752117,
+        102079481,
+        85897941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5HxfRDhWqIjibm9WwYA42d_50.089671_19.978542@1308163238"
+    },
+    "wof:country":"PL",
+    "wof:created":1474570867,
+    "wof:geomhash":"54230c71e869ba262bcf40218206a006",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079481,
+            "locality_id":101752117,
+            "neighbourhood_id":85897941,
+            "region_id":85687291,
+            "venue_id":1108702513
+        }
+    ],
+    "wof:id":1108702513,
+    "wof:lastmodified":1474570867,
+    "wof:name":"Epuls",
+    "wof:parent_id":85897941,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "poland",
+        "social-network"
+    ]
+},
+  "bbox": [
+    19.978542,
+    50.089671,
+    19.978542,
+    50.089671
+],
+  "geometry": {"coordinates":[19.978542,50.089671],"type":"Point"}
+}

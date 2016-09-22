@@ -1,0 +1,86 @@
+{
+  "id": 1108702477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"19.9304799,50.0767915,19.9304799,50.0767915",
+    "geom:latitude":50.076791,
+    "geom:longitude":19.93048,
+    "iso:country":"PL",
+    "mz:hierarchy_label":1,
+    "sg:address":"\u0141okietka 5",
+    "sg:city":"Krak\u00f3w",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"30-010",
+    "sg:tags":[
+        "ruby",
+        "rails",
+        "merb",
+        "ror",
+        "cinema",
+        "krakow",
+        "poland"
+    ],
+    "sg:website":"http://drclick.info/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85687291,
+        102191581,
+        85633723,
+        101752117,
+        102079481,
+        85897941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1kritT6lZMoq2LKscXoEId_50.076791_19.930480@1308163239"
+    },
+    "wof:country":"PL",
+    "wof:created":1474570866,
+    "wof:geomhash":"e82f892b74b2e1adc87c40d9ca2db839",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079481,
+            "locality_id":101752117,
+            "neighbourhood_id":85897941,
+            "region_id":85687291,
+            "venue_id":1108702477
+        }
+    ],
+    "wof:id":1108702477,
+    "wof:lastmodified":1474570866,
+    "wof:name":"DrClick",
+    "wof:parent_id":85897941,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ruby",
+        "rails",
+        "merb",
+        "ror",
+        "cinema",
+        "krakow",
+        "poland"
+    ]
+},
+  "bbox": [
+    19.9304799,
+    50.0767915,
+    19.9304799,
+    50.0767915
+],
+  "geometry": {"coordinates":[19.9304799,50.0767915],"type":"Point"}
+}

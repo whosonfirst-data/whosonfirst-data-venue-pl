@@ -1,0 +1,82 @@
+{
+  "id": 1108702483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"18.593954,54.3553402,18.593954,54.3553402",
+    "geom:latitude":54.35534,
+    "geom:longitude":18.593954,
+    "iso:country":"PL",
+    "mz:hierarchy_label":1,
+    "sg:address":"ul. Trzy Lipy 3",
+    "sg:city":"Gda\u0144sk",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"80-172",
+    "sg:tags":[
+        "contact-sharing",
+        "mobile-synchronization",
+        "contacts-import",
+        "details-exchange",
+        "contacts-exchange"
+    ],
+    "sg:website":"http://www.contails.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85687267,
+        102191581,
+        85633723,
+        101752271,
+        102080225,
+        85898175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6iLbGLgfP0BEy5hueLD1om_54.355340_18.593954@1308163240"
+    },
+    "wof:country":"PL",
+    "wof:created":1474570866,
+    "wof:geomhash":"f6fdb59309bea593813bf8447ccce37d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080225,
+            "locality_id":101752271,
+            "neighbourhood_id":85898175,
+            "region_id":85687267,
+            "venue_id":1108702483
+        }
+    ],
+    "wof:id":1108702483,
+    "wof:lastmodified":1474570866,
+    "wof:name":"Contails",
+    "wof:parent_id":85898175,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contact-sharing",
+        "mobile-synchronization",
+        "contacts-import",
+        "details-exchange",
+        "contacts-exchange"
+    ]
+},
+  "bbox": [
+    18.593954,
+    54.3553402,
+    18.593954,
+    54.3553402
+],
+  "geometry": {"coordinates":[18.593954,54.3553402],"type":"Point"}
+}

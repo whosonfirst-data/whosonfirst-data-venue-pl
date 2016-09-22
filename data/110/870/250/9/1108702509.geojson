@@ -1,0 +1,80 @@
+{
+  "id": 1108702509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"18.5416342,54.520135,18.5416342,54.520135",
+    "geom:latitude":54.520135,
+    "geom:longitude":18.541634,
+    "iso:country":"PL",
+    "mz:hierarchy_label":1,
+    "sg:address":"Abrahama 37/11",
+    "sg:city":"Gdynia",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"81-366",
+    "sg:tags":[
+        "prototype",
+        "prototyping",
+        "project",
+        "project-management"
+    ],
+    "sg:website":"http://www.justproto.com/en/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85687267,
+        102191581,
+        85633723,
+        101752275,
+        102080251,
+        85897929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2OgV1v212XNhsR7CekuFhH_54.520135_18.541634@1308163241"
+    },
+    "wof:country":"PL",
+    "wof:created":1474570867,
+    "wof:geomhash":"3f6262b3f5378e1716f4f5a0c851319e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080251,
+            "locality_id":101752275,
+            "neighbourhood_id":85897929,
+            "region_id":85687267,
+            "venue_id":1108702509
+        }
+    ],
+    "wof:id":1108702509,
+    "wof:lastmodified":1474570867,
+    "wof:name":"JustProto",
+    "wof:parent_id":85897929,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "prototype",
+        "prototyping",
+        "project",
+        "project-management"
+    ]
+},
+  "bbox": [
+    18.5416342,
+    54.520135,
+    18.5416342,
+    54.520135
+],
+  "geometry": {"coordinates":[18.5416342,54.520135],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1108702511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"16.827764,52.413065,16.827764,52.413065",
+    "geom:latitude":52.413065,
+    "geom:longitude":16.827764,
+    "iso:country":"PL",
+    "mz:hierarchy_label":1,
+    "sg:address":"ul. Bukowska 352",
+    "sg:city":"Poznan",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"60-189",
+    "sg:tags":[
+        "linux",
+        "server",
+        "management"
+    ],
+    "sg:website":"http://www.xandros.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85687323,
+        102191581,
+        85633723,
+        101752223,
+        102079921,
+        85898129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3s5LyLhY0PDih0TpcKj6C9_52.413065_16.827764@1308163238"
+    },
+    "wof:country":"PL",
+    "wof:created":1474570867,
+    "wof:geomhash":"0f1d20ec7bee6298f1ba0b41d35da59e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079921,
+            "locality_id":101752223,
+            "neighbourhood_id":85898129,
+            "region_id":85687323,
+            "venue_id":1108702511
+        }
+    ],
+    "wof:id":1108702511,
+    "wof:lastmodified":1474570867,
+    "wof:name":"Xandros",
+    "wof:parent_id":85898129,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "linux",
+        "server",
+        "management"
+    ]
+},
+  "bbox": [
+    16.827764,
+    52.413065,
+    16.827764,
+    52.413065
+],
+  "geometry": {"coordinates":[16.827764,52.413065],"type":"Point"}
+}

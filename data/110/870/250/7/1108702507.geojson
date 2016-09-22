@@ -1,0 +1,86 @@
+{
+  "id": 1108702507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"19.4500569,51.7662178,19.4500569,51.7662178",
+    "geom:latitude":51.766218,
+    "geom:longitude":19.450057,
+    "iso:country":"PL",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gdanska 80",
+    "sg:city":"Lodz",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Advertising",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"90613",
+    "sg:tags":[
+        "seo",
+        "sem",
+        "ppc",
+        "search-engine-marketing",
+        "search-engine-optimization",
+        "link-building",
+        "pay-per-click"
+    ],
+    "sg:website":"http://www.bluerank.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85687261,
+        102191581,
+        85633723,
+        101913783,
+        102079835,
+        85898069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4sMNZaEx4LMjOjpEcXSUIj_51.766218_19.450057@1308163242"
+    },
+    "wof:country":"PL",
+    "wof:created":1474570867,
+    "wof:geomhash":"feb073e8d5fd77189aeed0700276e25d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079835,
+            "locality_id":101913783,
+            "neighbourhood_id":85898069,
+            "region_id":85687261,
+            "venue_id":1108702507
+        }
+    ],
+    "wof:id":1108702507,
+    "wof:lastmodified":1474570867,
+    "wof:name":"Bluerank",
+    "wof:parent_id":85898069,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seo",
+        "sem",
+        "ppc",
+        "search-engine-marketing",
+        "search-engine-optimization",
+        "link-building",
+        "pay-per-click"
+    ]
+},
+  "bbox": [
+    19.4500569,
+    51.7662178,
+    19.4500569,
+    51.7662178
+],
+  "geometry": {"coordinates":[19.4500569,51.7662178],"type":"Point"}
+}

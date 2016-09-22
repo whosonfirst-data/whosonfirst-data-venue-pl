@@ -1,0 +1,90 @@
+{
+  "id": 1108702493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"23.1540917,53.1371088,23.1540917,53.1371088",
+    "geom:latitude":53.137109,
+    "geom:longitude":23.154092,
+    "iso:country":"PL",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hurtowa 4",
+    "sg:city":"Bia\u0142ystok",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"15-399",
+    "sg:tags":[
+        "ruby",
+        "rails",
+        "web-development",
+        "it",
+        "web-applications",
+        "applications",
+        "development",
+        "scrum",
+        "agile"
+    ],
+    "sg:website":"http://amberbit.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85687283,
+        102191581,
+        85633723,
+        101752255,
+        102080121,
+        85898189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5gBOHWE2Oqmn7Nb2SAT8Qq_53.137109_23.154092@1308163241"
+    },
+    "wof:country":"PL",
+    "wof:created":1474570866,
+    "wof:geomhash":"402b1fb0d1df803d79feeafbb65e1cc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080121,
+            "locality_id":101752255,
+            "neighbourhood_id":85898189,
+            "region_id":85687283,
+            "venue_id":1108702493
+        }
+    ],
+    "wof:id":1108702493,
+    "wof:lastmodified":1474570866,
+    "wof:name":"AmberBit",
+    "wof:parent_id":85898189,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ruby",
+        "rails",
+        "web-development",
+        "it",
+        "web-applications",
+        "applications",
+        "development",
+        "scrum",
+        "agile"
+    ]
+},
+  "bbox": [
+    23.1540917,
+    53.1371088,
+    23.1540917,
+    53.1371088
+],
+  "geometry": {"coordinates":[23.1540917,53.1371088],"type":"Point"}
+}

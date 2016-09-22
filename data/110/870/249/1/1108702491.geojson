@@ -1,0 +1,71 @@
+{
+  "id": 1108702491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"16.8489579,52.298342,16.8489579,52.298342",
+    "geom:latitude":52.298342,
+    "geom:longitude":16.848958,
+    "iso:country":"PL",
+    "mz:hierarchy_label":1,
+    "sg:address":"os. Sobieskiego 1/38",
+    "sg:city":"Pozna\u0144",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"60-688",
+    "sg:tags":[
+        "crm",
+        "sales",
+        "communication",
+        "webapp",
+        "sharing",
+        "email",
+        "calendar",
+        "tasks"
+    ],
+    "sg:website":"http://funnela.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5D0S8D5jEeAH0GuA4KZ9bN_52.298342_16.848958@1308163241"
+    },
+    "wof:country":"PL",
+    "wof:created":1474570866,
+    "wof:geomhash":"3d84113df2d92676dd704ffcbb401642",
+    "wof:hierarchy":[],
+    "wof:id":1108702491,
+    "wof:lastmodified":1474570866,
+    "wof:name":"Funnela",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crm",
+        "sales",
+        "communication",
+        "webapp",
+        "sharing",
+        "email",
+        "calendar",
+        "tasks"
+    ]
+},
+  "bbox": [
+    16.8489579,
+    52.298342,
+    16.8489579,
+    52.298342
+],
+  "geometry": {"coordinates":[16.8489579,52.298342],"type":"Point"}
+}

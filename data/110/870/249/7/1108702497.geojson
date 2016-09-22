@@ -1,0 +1,86 @@
+{
+  "id": 1108702497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"17.008263,51.0853553,17.008263,51.0853553",
+    "geom:latitude":51.085355,
+    "geom:longitude":17.008263,
+    "iso:country":"PL",
+    "mz:hierarchy_label":1,
+    "sg:address":"ul. Rac\u0142awicka 15-19  (floor VII)",
+    "sg:city":"Wroclaw",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"53-149",
+    "sg:tags":[
+        "it",
+        "oracle",
+        "tokonda",
+        "c",
+        "java",
+        "j2ee",
+        "system-integration"
+    ],
+    "sg:website":"http://www.akond.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85687301,
+        102191581,
+        85633723,
+        101752181,
+        102079661,
+        85897939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_66gXyrg4EJpCn0wb4qetyV_51.085355_17.008263@1308163241"
+    },
+    "wof:country":"PL",
+    "wof:created":1474570866,
+    "wof:geomhash":"be9062b7e94485149135497eec3bd20d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079661,
+            "locality_id":101752181,
+            "neighbourhood_id":85897939,
+            "region_id":85687301,
+            "venue_id":1108702497
+        }
+    ],
+    "wof:id":1108702497,
+    "wof:lastmodified":1474570866,
+    "wof:name":"Akond Lab",
+    "wof:parent_id":85897939,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "it",
+        "oracle",
+        "tokonda",
+        "c",
+        "java",
+        "j2ee",
+        "system-integration"
+    ]
+},
+  "bbox": [
+    17.008263,
+    51.0853553,
+    17.008263,
+    51.0853553
+],
+  "geometry": {"coordinates":[17.008263,51.0853553],"type":"Point"}
+}

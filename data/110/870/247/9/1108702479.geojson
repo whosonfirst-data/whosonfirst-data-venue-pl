@@ -1,0 +1,74 @@
+{
+  "id": 1108702479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"16.9012864,52.3977145,16.9012864,52.3977145",
+    "geom:latitude":52.397714,
+    "geom:longitude":16.901286,
+    "iso:country":"PL",
+    "mz:hierarchy_label":1,
+    "sg:address":"Wyspianskiego Street 10/4",
+    "sg:city":"Pozna\u0144",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"60-749",
+    "sg:tags":[
+        "usability-marketing-internet-eye-tracking-e-marketing-research"
+    ],
+    "sg:website":"http://www.symetria.pl/en/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85687323,
+        102191581,
+        85633723,
+        101752223,
+        102079921,
+        85898167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ZMcxJGHU5h74B25m5K2Gp_52.397714_16.901286@1308163239"
+    },
+    "wof:country":"PL",
+    "wof:created":1474570866,
+    "wof:geomhash":"73d255fb25c77ed1637b4891467e16aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079921,
+            "locality_id":101752223,
+            "neighbourhood_id":85898167,
+            "region_id":85687323,
+            "venue_id":1108702479
+        }
+    ],
+    "wof:id":1108702479,
+    "wof:lastmodified":1474570866,
+    "wof:name":"Symetria e-business agency",
+    "wof:parent_id":85898167,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "usability-marketing-internet-eye-tracking-e-marketing-research"
+    ]
+},
+  "bbox": [
+    16.9012864,
+    52.3977145,
+    16.9012864,
+    52.3977145
+],
+  "geometry": {"coordinates":[16.9012864,52.3977145],"type":"Point"}
+}

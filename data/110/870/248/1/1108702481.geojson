@@ -1,0 +1,88 @@
+{
+  "id": 1108702481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"19.9274341,50.0560371,19.9274341,50.0560371",
+    "geom:latitude":50.056037,
+    "geom:longitude":19.927434,
+    "iso:country":"PL",
+    "mz:hierarchy_label":1,
+    "sg:address":"al. Krasinskiego 17/5",
+    "sg:city":"Krak\u00f3w",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"31-111",
+    "sg:tags":[
+        "ruby",
+        "ruby-on-rails",
+        "merb",
+        "javascript",
+        "ajax",
+        "design",
+        "development",
+        "agile"
+    ],
+    "sg:website":"http://lunarlogicpolska.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85687291,
+        102191581,
+        85633723,
+        101752117,
+        102079481,
+        85898159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1HxQjKkxvo3FPe9Le7Y3u1_50.056037_19.927434@1308163240"
+    },
+    "wof:country":"PL",
+    "wof:created":1474570866,
+    "wof:geomhash":"b21a6f376d3d8b0c0df6dfc96bb7e5af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079481,
+            "locality_id":101752117,
+            "neighbourhood_id":85898159,
+            "region_id":85687291,
+            "venue_id":1108702481
+        }
+    ],
+    "wof:id":1108702481,
+    "wof:lastmodified":1474570866,
+    "wof:name":"Lunar Logic Polska",
+    "wof:parent_id":85898159,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ruby",
+        "ruby-on-rails",
+        "merb",
+        "javascript",
+        "ajax",
+        "design",
+        "development",
+        "agile"
+    ]
+},
+  "bbox": [
+    19.9274341,
+    50.0560371,
+    19.9274341,
+    50.0560371
+],
+  "geometry": {"coordinates":[19.9274341,50.0560371],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1108702475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"17.041942,51.116574,17.041942,51.116574",
+    "geom:latitude":51.116574,
+    "geom:longitude":17.041942,
+    "iso:country":"PL",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bema Plaza, V pietro Plac Gen. Jozefa Bema nr 2",
+    "sg:city":"Wroclaw",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"50-265",
+    "sg:tags":[
+        "google",
+        "search",
+        "gmail",
+        "blogger",
+        "find",
+        "information",
+        "youtube"
+    ],
+    "sg:website":"http://google.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85687301,
+        85633723,
+        85898117,
+        102079661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_501llvgC8tFeJBWziRHJMl_51.116574_17.041942@1308163236"
+    },
+    "wof:country":"PL",
+    "wof:created":1474570866,
+    "wof:geomhash":"60a2e1e66854aca6f82a77dcd9fc32e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633723,
+            "county_id":102079661,
+            "neighbourhood_id":85898117,
+            "region_id":85687301,
+            "venue_id":1108702475
+        }
+    ],
+    "wof:id":1108702475,
+    "wof:lastmodified":1474570866,
+    "wof:name":"Google",
+    "wof:parent_id":85898117,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "google",
+        "search",
+        "gmail",
+        "blogger",
+        "find",
+        "information",
+        "youtube"
+    ]
+},
+  "bbox": [
+    17.041942,
+    51.116574,
+    17.041942,
+    51.116574
+],
+  "geometry": {"coordinates":[17.041942,51.116574],"type":"Point"}
+}

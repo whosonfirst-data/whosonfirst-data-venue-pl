@@ -1,0 +1,84 @@
+{
+  "id": 1108702495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"21.0062704,52.1712424,21.0062704,52.1712424",
+    "geom:latitude":52.171242,
+    "geom:longitude":21.00627,
+    "iso:country":"PL",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rzymowskiego 53",
+    "sg:city":"Warsaw",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"02697",
+    "sg:tags":[
+        "html",
+        "flash",
+        "gif",
+        "animation",
+        "dhtml",
+        "swf"
+    ],
+    "sg:website":"http://www.selteco.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85687257,
+        102191581,
+        85633723,
+        101752777,
+        102079951,
+        85898107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1VRHwenvCiLluhwVrUKn71_52.171242_21.006270@1308163241"
+    },
+    "wof:country":"PL",
+    "wof:created":1474570866,
+    "wof:geomhash":"d1224177e9ac3b40170746539cbdba4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079951,
+            "locality_id":101752777,
+            "neighbourhood_id":85898107,
+            "region_id":85687257,
+            "venue_id":1108702495
+        }
+    ],
+    "wof:id":1108702495,
+    "wof:lastmodified":1474570866,
+    "wof:name":"Selteco",
+    "wof:parent_id":85898107,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "html",
+        "flash",
+        "gif",
+        "animation",
+        "dhtml",
+        "swf"
+    ]
+},
+  "bbox": [
+    21.0062704,
+    52.1712424,
+    21.0062704,
+    52.1712424
+],
+  "geometry": {"coordinates":[21.0062704,52.1712424],"type":"Point"}
+}

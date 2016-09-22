@@ -1,0 +1,116 @@
+{
+  "id": 1108702489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"18.455176,54.457973,18.455176,54.457973",
+    "geom:latitude":54.457973,
+    "geom:longitude":18.455176,
+    "iso:country":"PL",
+    "mz:hierarchy_label":1,
+    "sg:address":"Krzemowa 6",
+    "sg:city":"Gdynia",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Electronics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"81577",
+    "sg:tags":[
+        "telecommunication",
+        "computing",
+        "television",
+        "nets",
+        "cable-nets",
+        "cable-television",
+        "hfc-net",
+        "data-transmission",
+        "ip-telephony",
+        "voip",
+        "digital-television",
+        "vod",
+        "video-on-demand",
+        "nvod",
+        "headends",
+        "dwdm",
+        "power-supply-systems",
+        "an",
+        "man",
+        "lan",
+        "wireless",
+        "iptv",
+        "cisco",
+        "dlink"
+    ],
+    "sg:website":"http://www.vector.com.pl",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85687267,
+        85633723,
+        85897891,
+        102080251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0FdLatExPEIlhwcQ4hhhX1_54.457973_18.455176@1308163238"
+    },
+    "wof:country":"PL",
+    "wof:created":1474570866,
+    "wof:geomhash":"b119500c8f1ed5f920b621ae03016d2a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633723,
+            "county_id":102080251,
+            "neighbourhood_id":85897891,
+            "region_id":85687267,
+            "venue_id":1108702489
+        }
+    ],
+    "wof:id":1108702489,
+    "wof:lastmodified":1474570866,
+    "wof:name":"VECTOR",
+    "wof:parent_id":85897891,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-pl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telecommunication",
+        "computing",
+        "television",
+        "nets",
+        "cable-nets",
+        "cable-television",
+        "hfc-net",
+        "data-transmission",
+        "ip-telephony",
+        "voip",
+        "digital-television",
+        "vod",
+        "video-on-demand",
+        "nvod",
+        "headends",
+        "dwdm",
+        "power-supply-systems",
+        "an",
+        "man",
+        "lan",
+        "wireless",
+        "iptv",
+        "cisco",
+        "dlink"
+    ]
+},
+  "bbox": [
+    18.455176,
+    54.457973,
+    18.455176,
+    54.457973
+],
+  "geometry": {"coordinates":[18.455176,54.457973],"type":"Point"}
+}
